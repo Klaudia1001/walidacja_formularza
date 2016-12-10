@@ -26,3 +26,4 @@ function wyswietlInfo() {
 }
  
 document.getElementById("wszystkie-zgody").addEventListener('click', wyswietlInfo)
+
